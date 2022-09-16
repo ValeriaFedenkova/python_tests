@@ -1,6 +1,6 @@
 def triangle_type(a, b, c):
     if type(a) is not int and type(b) is not int and  type(c) is not int:  
-        raise TypeError  #пошел в жопу тогда
+        raise TypeError  #пошел в жопу тогда, пидр
     else: 
         print("норм")
 def triangle(a, b, c):
