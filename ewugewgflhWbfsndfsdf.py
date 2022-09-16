@@ -8,7 +8,7 @@ def triangle(a, b, c):
         print ("Треугольник существует")
     else:
         print ("Треугольник не существует")
-def triangle_terms(a, b, c):
+def triangle_terms(a, b, c):#kksjdhfkjsdf
     if a == b == c:
         print ("Треугольник равносторонний")
     elif a == b or a == c or c == b:
